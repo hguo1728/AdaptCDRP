@@ -1,6 +1,6 @@
 # AdaptCDRP
-**Learning from Noisy Labels via Conditional Distributionally Robust Optimization**
+**Learning from Noisy Labels via Conditional Distributionally Robust Optimization**, NeurIPS 2024 (poster)
 
-NeurIPS 2024 (poster)
+Hui Guo, Grace Y. Yi, Boyu Wang (University of Western Ontario)
 
-TO DO
+Arxiv: (TO DO)
