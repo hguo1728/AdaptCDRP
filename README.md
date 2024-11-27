@@ -3,4 +3,9 @@
 
 Hui Guo, Grace Y. Yi, Boyu Wang (University of Western Ontario)
 
-Arxiv: (TO DO)
+Arxiv: (https://arxiv.org/abs/2411.17113)
+
+OpenReview: https://openreview.net/forum?id=2NKumsITFw&referrer=%5Bthe%20profile%20of%20Boyu%20Wang%5D(%2Fprofile%3Fid%3D~Boyu_Wang3)
+
+
+
