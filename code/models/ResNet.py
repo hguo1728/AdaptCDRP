@@ -9,7 +9,6 @@ import torchvision.models as models
 from torch.autograd import Variable
 from torchvision import transforms
 
-
 class BasicBlock(nn.Module):
     expansion = 1
     def __init__(self, in_planes, planes, stride=1):
